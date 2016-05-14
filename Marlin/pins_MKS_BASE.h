@@ -6,3 +6,6 @@
 
 #undef HEATER_1_PIN
 #define HEATER_1_PIN        7
+
+#undef SERVO0_PIN
+#define SERVO0_PIN  11
